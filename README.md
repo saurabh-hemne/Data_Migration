@@ -7,6 +7,6 @@ This project is about migrating data from SQL Server to PostgreSQL.
 
 I'm using following tech stack:
 
-> SQL
-> Python
-> Jupyter Notebook
+- SQL
+- Python
+- Jupyter Notebook
