@@ -39,5 +39,3 @@ I'm using following tech stack:
 7. Run post-data migration checks
 8. Generate a validation report
 
-
-
