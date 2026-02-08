@@ -10,7 +10,10 @@ I'm using following tech stack:
 - SQL
 - Python
 - Jupyter Notebook
+<<<<<<< HEAD
 
+=======
+>>>>>>> 174c94b775558e3a67126ca37fdfb3451025fd36
 # Migration Steps
 
 ## High Level
@@ -37,4 +40,8 @@ I'm using following tech stack:
    - Create the tables in PostgreSQL
    - Load the tables into PostgreSQL
 7. Run post-data migration checks
+<<<<<<< HEAD
 8. Generate a validation report
+=======
+8Generate a validation report
+>>>>>>> 174c94b775558e3a67126ca37fdfb3451025fd36
