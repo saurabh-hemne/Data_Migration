@@ -38,4 +38,3 @@ I'm using following tech stack:
    - Load the tables into PostgreSQL
 7. Run post-data migration checks
 8. Generate a validation report
-
